@@ -17,12 +17,6 @@ A lightweight and intuitive JSON editor with a modern, user-friendly interface d
 2. Clone or download the repository.
 3. Install required dependencies (standard libraries used; no external packages required).
 
-```bash
-git clone <repository-url>
-cd <project-directory>
-python json_editor.py
-```
-
 ## Usage
 
 ### Opening and Saving Files
